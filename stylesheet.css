@@ -1,0 +1,10 @@
+body {
+    background-color: #3cc190;
+    font-family: sans-serif;
+}
+
+h1 {
+  max-width: 650px;
+  border: 4px solid #880000;
+  margin: auto, auto, auto, auto;
+}
